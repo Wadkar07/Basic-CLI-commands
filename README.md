@@ -58,3 +58,8 @@ $ rm data.txt
 $ rm -r New Folder
 ```
 rm -r deletes a directory and all of its child directories.
+## 12. gedit
+```bash
+$ gedit <filename>
+```
+```gedit``` is a file editor where you can edit your text document and save. you can exit the editor by typing ```ctrl+x```
